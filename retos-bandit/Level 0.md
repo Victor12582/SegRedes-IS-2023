@@ -17,6 +17,10 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 | Comando | Descripción |
 |------------|--------------|
 |pwd|Se indica en el directorio
+|cat|Me muestra lo que hay adentro de un archivo|
+|whoami|Me dice cual es el nombre de mi usuario
+|ls|Lista los archivos que hay en donde estoy ubicado|
+
 
 
 ## Referencias
