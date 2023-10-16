@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosWeb1/Client-side-again.md",
+                "file": "RetosWeb3/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosWeb1/Client-side-again.md",
+                "file": "RetosWeb3/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosWeb1/Client-side-again.md",
+                "file": "RetosWeb3/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosWeb1/Client-side-again.md"
+                "file": "RetosWeb3/Scavenger Hunt.md"
               }
             }
           }
@@ -173,8 +173,17 @@
   },
   "active": "428f9f90c8289dbd",
   "lastOpenFiles": [
-    "RetosWeb1/picobrowser.md",
+    "RetosWeb3/Cookies.md",
+    "RetosWeb3/Scavenger Hunt.md",
+    "RetosWeb2/Irish-Name-Repo 1.md",
+    "RetosWeb2/Irish-Name-Repo 3.md",
+    "RetosWeb3/GET aHEAD.md",
+    "RetosWeb3",
+    "RetosWeb2/Irish-Name-Repo 2.md",
+    "Untitled.md",
     "RetosWeb1/Client-side-again.md",
+    "RetosWeb2",
+    "RetosWeb1/picobrowser.md",
     "RetosWeb1/dont-use-client-side.md",
     "RetosWeb1/logon.md",
     "RetosWeb1/where are the robots.md",
@@ -197,17 +206,8 @@
     "primer-examen-parcial/parte2/strings it.md",
     "primer-examen-parcial/parte2/fixme1.py.md",
     "primer-examen-parcial/parte2/First Grep.md",
-    "primer-examen-parcial/parte2/Convertme.py.md",
-    "primer-examen-parcial/parte2/Bases.md",
-    "primer-examen-parcial/parte2/Codebook.md",
-    "primer-examen-parcial/parte1/Nice netcat....md",
-    "primer-examen-parcial/parte1/Obedient Cat.md",
-    "primer-examen-parcial/parte1/Warmed Up.md",
-    "primer-examen-parcial/parte1/Tab, Tab, Attack.md",
     "primer-examen-parcial.zip",
     "primer-examen-parcial/parte3",
-    "primer-examen-parcial/parte2",
-    "primer-examen-parcial/parte1",
-    "primer-examen-parcial"
+    "primer-examen-parcial/parte2"
   ]
 }
