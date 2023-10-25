@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosForensic3/Matryoshka dolls.md",
+                "file": "RetosWeb6/waves over lambda.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosForensic3/Matryoshka dolls.md",
+                "file": "RetosWeb6/waves over lambda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosForensic3/Matryoshka dolls.md",
+                "file": "RetosWeb6/waves over lambda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosForensic3/Matryoshka dolls.md"
+                "file": "RetosWeb6/waves over lambda.md"
               }
             }
           }
@@ -173,8 +173,16 @@
   },
   "active": "428f9f90c8289dbd",
   "lastOpenFiles": [
-    "RetosForensic3/WebNet1.md",
+    "RetosWeb6/Tapping.md",
+    "RetosWeb6/waves over lambda.md",
+    "RetosWeb6/la cifra de.md",
+    "RetosWeb6/Caesar.md",
+    "RetosWeb6/13.md",
+    "RetosWeb6/The Numbers.md",
+    "RetosWeb6/Easy1.md",
     "RetosForensic3/Matryoshka dolls.md",
+    "RetosWeb6",
+    "RetosForensic3/WebNet1.md",
     "RetosForensic3/WebNet0.md",
     "RetosWeb4/shark on wire 1.md",
     "RetosForensic3",
@@ -195,19 +203,11 @@
     "RetosWeb3/GET aHEAD.md",
     "RetosWeb3/Cookies.md",
     "RetosWeb2/Irish-Name-Repo 1.md",
-    "RetosWeb2/Irish-Name-Repo 3.md",
     "RetosWeb3",
-    "RetosWeb2/Irish-Name-Repo 2.md",
-    "RetosWeb1/Client-side-again.md",
     "RetosWeb2",
-    "RetosWeb1/picobrowser.md",
-    "RetosWeb1/dont-use-client-side.md",
-    "RetosWeb1/logon.md",
-    "RetosWeb1/where are the robots.md",
     "RetosWeb1",
     "level3.py",
     "level3.hash.bin",
-    "level3.flag.txt.enc",
-    "primer-examen-parcial/parte3/Untitled"
+    "level3.flag.txt.enc"
   ]
 }
