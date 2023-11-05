@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0b6d973581b60e48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "retos-bandit/Bandit Level 5 → Level 6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a4bb18a14404804",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "primer-examen-parcial/parte3/plumbing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "428f9f90c8289dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosWeb6/waves over lambda.md",
+                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosWeb6/waves over lambda.md",
+                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosWeb6/waves over lambda.md",
+                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosWeb6/waves over lambda.md"
+                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md"
               }
             }
           }
@@ -173,41 +148,41 @@
   },
   "active": "428f9f90c8289dbd",
   "lastOpenFiles": [
-    "RetosWeb6/Tapping.md",
+    "segundo-examen-parcial/Segunda Parte/Redaction gone wrong.md",
+    "segundo-examen-parcial/Segunda Parte/St3g0.md",
+    "segundo-examen-parcial/Segunda Parte/Packets Primer.md",
+    "segundo-examen-parcial/Segunda Parte/Lookey here.md",
+    "segundo-examen-parcial/Segunda Parte/Enhance!.md",
+    "segundo-examen-parcial/Segunda Parte/Wireshark doo dooo do doo....md",
+    "segundo-examen-parcial/Segunda Parte/information.md",
+    "segundo-examen-parcial/Primer Parte/SQL Direct.md",
+    "segundo-examen-parcial/Primer Parte/Secrets.md",
+    "segundo-examen-parcial/Primer Parte/Roboto Sans.md",
+    "segundo-examen-parcial/Primer Parte/Power Cookie.md",
+    "segundo-examen-parcial/Primer Parte/Forbidden Paths.md",
+    "segundo-examen-parcial/Primer Parte/Search source.md",
+    "segundo-examen-parcial/Primer Parte/Local Authority.md",
+    "segundo-examen-parcial/Primer Parte/Inspect HTML.md",
+    "segundo-examen-parcial/Primer Parte/Include.md",
+    "RetosWeb7-Act17/RSA.md",
+    "segundo-examen-parcial/Segunda Parte",
+    "segundo-examen-parcial/Primer Parte",
+    "segundo-examen-parcial",
+    "rsapopquiz/exp.py",
+    "rsapopquiz/rsapopquiz.py",
+    "rsapopquiz/gyv.py",
+    "rsapopquiz",
+    "Nueva carpeta",
+    "primer-examen-parcial/parte3/plumbing.md",
+    "retos-bandit/Bandit Level 5 → Level 6.md",
+    "RetosWeb7-Act17/Untitled 2.md",
+    "RetosWeb7-Act17/Untitled 1.md",
+    "RetosWeb7-Act17/Untitled.md",
     "RetosWeb6/waves over lambda.md",
+    "RetosWeb7-Act17",
+    "RetosWeb6/Tapping.md",
     "RetosWeb6/la cifra de.md",
     "RetosWeb6/Caesar.md",
-    "RetosWeb6/13.md",
-    "RetosWeb6/The Numbers.md",
-    "RetosWeb6/Easy1.md",
-    "RetosForensic3/Matryoshka dolls.md",
-    "RetosWeb6",
-    "RetosForensic3/WebNet1.md",
-    "RetosForensic3/WebNet0.md",
-    "RetosWeb4/shark on wire 1.md",
-    "RetosForensic3",
-    "RetosWeb5/shark on wire 2.md",
-    "primer-examen-parcial/parte3/plumbing.md",
-    "RetosWeb5/liken 1000.md",
-    "RetosWeb5/c0rrupt.md",
-    "RetosWeb5/m00nwalk.md",
-    "RetosWeb5/WhitePages.md",
-    "RetosWeb4/white.md",
-    "RetosWeb5",
-    "RetosWeb4/extensions.md",
-    "RetosWeb4/So Meta.md",
-    "RetosWeb4/Glory of the Garden.md",
-    "RetosWeb4.md",
-    "RetosWeb4",
-    "RetosWeb3/Scavenger Hunt.md",
-    "RetosWeb3/GET aHEAD.md",
-    "RetosWeb3/Cookies.md",
-    "RetosWeb2/Irish-Name-Repo 1.md",
-    "RetosWeb3",
-    "RetosWeb2",
-    "RetosWeb1",
-    "level3.py",
-    "level3.hash.bin",
-    "level3.flag.txt.enc"
+    "RetosWeb6"
   ]
 }
