@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md",
+                "file": "RetosWeb7-Act17/miniRSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md",
+                "file": "RetosWeb7-Act17/miniRSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md",
+                "file": "RetosWeb7-Act17/miniRSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "segundo-examen-parcial/Segunda Parte/St3g0.md"
+                "file": "RetosWeb7-Act17/miniRSA.md"
               }
             }
           }
@@ -148,8 +148,12 @@
   },
   "active": "428f9f90c8289dbd",
   "lastOpenFiles": [
-    "segundo-examen-parcial/Segunda Parte/Redaction gone wrong.md",
+    "RetosWeb7-Act17/b00tl3gRSA2.md",
+    "RetosWeb7-Act17/miniRSA.md",
+    "RetosWeb7-Act17/rsa-pop-quiz.md",
+    "RetosWeb7-Act17/RSA.md",
     "segundo-examen-parcial/Segunda Parte/St3g0.md",
+    "segundo-examen-parcial/Segunda Parte/Redaction gone wrong.md",
     "segundo-examen-parcial/Segunda Parte/Packets Primer.md",
     "segundo-examen-parcial/Segunda Parte/Lookey here.md",
     "segundo-examen-parcial/Segunda Parte/Enhance!.md",
@@ -164,7 +168,6 @@
     "segundo-examen-parcial/Primer Parte/Local Authority.md",
     "segundo-examen-parcial/Primer Parte/Inspect HTML.md",
     "segundo-examen-parcial/Primer Parte/Include.md",
-    "RetosWeb7-Act17/RSA.md",
     "segundo-examen-parcial/Segunda Parte",
     "segundo-examen-parcial/Primer Parte",
     "segundo-examen-parcial",
@@ -175,9 +178,6 @@
     "Nueva carpeta",
     "primer-examen-parcial/parte3/plumbing.md",
     "retos-bandit/Bandit Level 5 → Level 6.md",
-    "RetosWeb7-Act17/Untitled 2.md",
-    "RetosWeb7-Act17/Untitled 1.md",
-    "RetosWeb7-Act17/Untitled.md",
     "RetosWeb6/waves over lambda.md",
     "RetosWeb7-Act17",
     "RetosWeb6/Tapping.md",
