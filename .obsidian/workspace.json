@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RetosWeb7-Act17/miniRSA.md",
+                "file": "Actividad19/vault-door-training.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RetosWeb7-Act17/miniRSA.md",
+                "file": "Actividad19/vault-door-training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RetosWeb7-Act17/miniRSA.md",
+                "file": "Actividad19/vault-door-training.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RetosWeb7-Act17/miniRSA.md"
+                "file": "Actividad19/vault-door-training.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "428f9f90c8289dbd",
   "lastOpenFiles": [
-    "RetosWeb7-Act17/b00tl3gRSA2.md",
-    "RetosWeb7-Act17/miniRSA.md",
+    "Actividad19/vault-door-5.md",
+    "Actividad19/vault-door-training.md",
+    "Actividad19/vault-door-4.md",
+    "Actividad19/vault-door-3.md",
+    "Actividad19/vault-door-1.md",
     "RetosWeb7-Act17/rsa-pop-quiz.md",
+    "Actividad19",
+    "RetosWeb7-Act17/miniRSA.md",
+    "RetosWeb7-Act17/b00tl3gRSA2.md",
     "RetosWeb7-Act17/RSA.md",
     "segundo-examen-parcial/Segunda Parte/St3g0.md",
     "segundo-examen-parcial/Segunda Parte/Redaction gone wrong.md",
@@ -177,12 +183,6 @@
     "rsapopquiz",
     "Nueva carpeta",
     "primer-examen-parcial/parte3/plumbing.md",
-    "retos-bandit/Bandit Level 5 → Level 6.md",
-    "RetosWeb6/waves over lambda.md",
-    "RetosWeb7-Act17",
-    "RetosWeb6/Tapping.md",
-    "RetosWeb6/la cifra de.md",
-    "RetosWeb6/Caesar.md",
-    "RetosWeb6"
+    "RetosWeb7-Act17"
   ]
 }
